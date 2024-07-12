@@ -14,14 +14,13 @@ Before you dive into the snake world, make sure you have:
 - A command line or terminal
 
 ### Installation
-Clone the repository or simply download the source code.
-      git clone https://github.com/JuhiPathak23/Snake-Game-OOPs.git
-Navigate to the project directory.
-      cd snake-game
-Compile the code with your C++ compiler.
-      g++ -o snake_game main.cpp -lwinmm
-Run the game and enjoy!
-      ./snake_game
+Clone the repository or simply download the source code.<br>
+--> git clone https://github.com/JuhiPathak23/Snake-Game-OOPs.git<br>
+Navigate to the project directory.<br>
+--> cd snake-game-oops<br>
+Compile the code with your C++ compiler.<br>
+--> g++ -o snakegamemain.cpp -lwinmm<br>
+Run the game and enjoy!<br>
 ## 🎮 How to Play
 Use the W, A, S, D keys to slither around.
 W: Move Up
